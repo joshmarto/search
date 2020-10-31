@@ -1,0 +1,44 @@
+.more-searchs{
+      	text-align: right;
+}
+form{
+       	text-align: center;
+       	padding-top: 3%;
+}
+input{
+        border-radius: 15px;
+       	display: inline-block;
+        border: solid 1px gray;
+        box-shadow: 1.75px 2px #888888;
+}
+input:hover{
+        outline: none;
+}
+.search-bar{
+        width: 40%;
+        border-color: gray;
+        padding: .35%;
+}
+body{
+        padding: 1%;
+}
+label{
+        font-size: 18px;
+        display: inline;
+}
+.field{
+        border-radius: 0px;
+        border: 1px solid;
+}
+.fields{
+        display: inline;
+}
+.adv{
+        text-align: left;
+        padding-left: 40%;
+}
+#btn-adv{
+        border-radius: 3px;
+        background-color: #0275d8;
+        color: white;
+}
